@@ -2,7 +2,8 @@
 import localforage from "localforage";
 import { matchSorter } from "match-sorter";
 import sortBy from "sort-by";
-//F
+
+
 // Function to retrieve contacts based on a query and apply sorting
 export async function getContacts(query) {
   // Simulate network delay
