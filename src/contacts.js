@@ -1,4 +1,4 @@
-// Importing necessary libraries
+//Importing necessary libraries
 import localforage from "localforage";
 import { matchSorter } from "match-sorter";
 import sortBy from "sort-by";
